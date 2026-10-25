@@ -26,7 +26,7 @@ Blackbox comes with an initial tone and no tone banks: import your own CZ `.syx`
 
 ## Download
 
-Download **[Blackbox-Synth-0.1.0-macOS.zip](Blackbox-Synth-0.1.0-macOS.zip)** (or the newest zip
+Download **[Blackbox-Synth-0.5.0-macOS.zip](Blackbox-Synth-0.5.0-macOS.zip)** (or the newest zip
 under [Releases](../../releases)) and double-click it to unzip.
 
 You need:
@@ -34,6 +34,8 @@ You need:
 - macOS 11 (Big Sur) or later, on an Apple Silicon or Intel Mac
 - A DAW that loads VST3 or CLAP plugins, such as Bitwig Studio, Ableton Live, Reaper, Cubase or
   FL Studio. There is no Audio Unit version, so it does not run in Logic Pro or GarageBand.
+- The CLAP loads in Bitwig Studio, Reaper, FL Studio 2024 and later, and Studio One 6.5 and later.
+  Ableton Live and Cubase load only the VST3, so use that one there.
 
 ## Install
 
